@@ -1,0 +1,42 @@
+plugins {
+    id 'nebula.kotlin' version '1.1.1'
+}
+
+group 'com.github.rhencke'
+version '0.1-SNAPSHOT'
+
+apply plugin: 'kotlin'
+apply plugin: 'application'
+
+repositories {
+    mavenCentral()
+    flatDir { dir 'cda/lib' }
+}
+
+dependencies {
+    compile ':pf-cda-base-xpi'
+    compile ':pf-cda-swing-xpi'
+    compile ':pf-odem'
+    compile ':pf-application'
+    compile ':pf-bcel'
+    compile ':pf-odem'
+    compile ':pf-model'
+    compile ':pf-cda-base-xpi'
+    compile ':pf-cda-base'
+    compile ':pf-cda-core'
+    compile ':pf-bif'
+    compile ':pf-file'
+    compile ':pf-logging'
+    compile ':pf-nls'
+    compile ':pf-pax'
+    compile ':pf-plugin'
+    compile ':pf-reflect'
+    compile ':pf-security'
+    compile ':pf-settings'
+    compile ':pf-six'
+    compile ':pf-text'
+    compile ':pf-textx'
+    compile ':pf-utilities'
+}
+
+mainClassName = 'com.github.rhencke.jarbuster.rhencke.MainKt'

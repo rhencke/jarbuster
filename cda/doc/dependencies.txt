@@ -1,0 +1,47 @@
+
+The following files have been resolved:
+   com.jgoodies:jgoodies-common:jar:1.6.0:compile
+   com.jgoodies:jgoodies-forms:jar:1.7.1:compile
+   com.jgoodies:jgoodies-looks:jar:2.5.3:compile
+   junit:junit:jar:3.8.1:test
+   org.pfsw:PF-Application:jar:2.0.0:compile
+   org.pfsw:PF-BIF:jar:2.1.0:compile
+   org.pfsw:PF-CDA-Base-XPI:jar:1.16.0:compile
+   org.pfsw:PF-JOI:jar:3.0.0:compile
+   org.pfsw:PF-Logging:jar:1.2.0:compile
+   org.pfsw:PF-Reflect:jar:2.5.0:compile
+   org.pfsw:PF-Security:jar:1.2.0:compile
+   org.pfsw:PF-Text:jar:6.6.0:compile
+   org.pfsw:PF-TextX:jar:2.1.2:compile
+   org.pfsw:PF-Utilities:jar:4.2.0:compile
+   org.pfsw:pf-bcel:jar:5.1.A2:compile
+   org.pfsw:pf-bif:jar:3.0.0:compile
+   org.pfsw:pf-cda-base:jar:1.16.0:compile
+   org.pfsw:pf-cda-base-xpi:jar:1.16.0:compile
+   org.pfsw:pf-cda-core:jar:1.16.0:compile
+   org.pfsw:pf-cda-decompiler:jar:1.16.0:compile
+   org.pfsw:pf-cda-extensions:jar:1.16.0:compile
+   org.pfsw:pf-cda-swing:jar:1.16.0:compile
+   org.pfsw:pf-cda-swing-XPI:jar:1.16.0:compile
+   org.pfsw:pf-cda-swing-xpi:jar:1.16.0:compile
+   org.pfsw:pf-darc-base:jar:1.0.1:compile
+   org.pfsw:pf-darc-server:jar:1.0.1:compile
+   org.pfsw:pf-file:jar:4.3.0:compile
+   org.pfsw:pf-gui:jar:3.0.0:compile
+   org.pfsw:pf-keyboard:jar:2.0.0:compile
+   org.pfsw:pf-logging:jar:2.0.0:compile
+   org.pfsw:pf-model:jar:2.0.0:compile
+   org.pfsw:pf-mvc:jar:4.0.0:compile
+   org.pfsw:pf-nls:jar:2.0.0:compile
+   org.pfsw:pf-odem:jar:1.0.0:compile
+   org.pfsw:pf-pax:jar:3.0.0:compile
+   org.pfsw:pf-plugin:jar:2.0.0:compile
+   org.pfsw:pf-reflect:jar:3.0.0:compile
+   org.pfsw:pf-settings:jar:3.0.0:compile
+   org.pfsw:pf-six:jar:4.0.0:compile
+   org.pfsw:pf-swing:jar:2.0.0:compile
+   org.pfsw:pf-text:jar:7.0.0:compile
+   org.pfsw:pf-textx:jar:3.0.0:compile
+   org.pfsw:pf-utilities:jar:5.0.0:compile
+   yWorks:yFiles:jar:2.7.0.1:compile
+
